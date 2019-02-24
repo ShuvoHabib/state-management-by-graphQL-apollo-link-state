@@ -2,6 +2,7 @@
   "name": "link-state-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://shuvohabib.com/state-management-by-graphQL-apollo-link-state/",
   "dependencies": {
     "apollo-boost": "^0.1.28",
     "apollo-client-preset": "^1.0.8",
